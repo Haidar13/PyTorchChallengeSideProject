@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: Haidar Almubarak, h.a.almubarak@mst.edu
+@author: Haidar Almubarak
 """
 
 import pandas as pd
